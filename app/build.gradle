@@ -26,4 +26,5 @@ dependencies {
     // Added for AdMob
     compile 'com.google.android.gms:play-services-ads:9.6.1'
     compile project(':javatelljock')
+    compile project(':passedjock')
 }
