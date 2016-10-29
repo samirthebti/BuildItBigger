@@ -3,12 +3,57 @@
 
     <item
         is-multidex="true"
-        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.1_8e185cc1821bb39ed58a6f2b38f08cb4b622d393/classes.dex" />
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_22b0bc4c6054abfebe6d1401eec99d9d811d6944/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ed5009bbadb13810fb6aaf8e0f751f3a9ab16c5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_741b379e8fee429bd17b4a30524661a4b49cc415/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_2bb63d4bdbd9866ae222aea26b719762ac17291b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_9b61f66ed84fa49df73344f263a87ff5d21c294e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_8241a02bae006ed3ab14a9a74472cc84f916cc08/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -30,21 +75,102 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.1_1fe9c9e271d3d6dfd205de87d40f8b9fcd4c1718/classes.dex" />
+        revision="24.0.2"
+        sha1="6ff796a3173787afe2e712f3aec6f5b99796118e">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.1_47120ac657f6242af86f599e3fd5e4de62d97ef1/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
-        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_50d44c691a5a606c9d0e736850912785650b8e61/classes.dex" />
+        revision="24.0.2"
+        sha1="47bbb3ec4b31ba71e125241c090dabe70cbb4de7">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.1_345e6e659d4dd6b085b061d2e4877b4143a206f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_d58c9289b1c3e1ee355cc0ed830ae725ac440d7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_30e12f8a9d27df90102b2235e9f71d324ec31d25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_8ff9d9f43197e81147c975aa86cac7180d5b3841/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ad99a49562655b0bf7fc38ad2069df939bcc13ef">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5f97896a0021744ce29572f02138209d531c511d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_3ae968c2bdd3fb6297f64fff67f5d21c759ec630/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_35cc5f8751493f745612a25d0c85ba47edcb6d12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ee0ccb43f6ab276191b7f2d77c305fa9beb26db9">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.1_83178e00e7db6f6689fbe1ce16fadc662048eca1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_eb8c546723bfce52ea1554a9c8921e4c5f3813e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="34657f49690e8a6a5da34596bd38b871eeeb5237">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_177df189b7a5eb55afd4d49ef30799eb7d305b83/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -57,93 +183,75 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/thesam/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_6a4b5e23e935ba8d3baf6f6d7740b217bb4d9ab6/classes.dex" />
+        revision="24.0.2"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_e0983656824e97b0aa4dd8ea2e5f62a4b1feca00/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
-        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_074b1313122dbc7858fc21c28de2d496b64cc1da/classes.dex" />
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_006f776d02097e0f16526b75d3b1f3ffa2893287/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.1_219a9439122e143af0e7cfb55d24fbaaf175f814/classes.dex" />
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6a39d6395948da2d9dc8e83d8476d580177abe5f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
-        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_d7baefc2e150b3f5e96b7f4ccb77ad92262cf7bd/classes.dex" />
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_63295090c5aef4e9c55b2512425dc05adef24fea/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
-        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_1cc8de36a6f3e7c1650709ce9a48a978c471ab4b/classes.dex" />
+        revision="24.0.2"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_9e222b0c3bb9d245de67b887287a2dca7f2651c8/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.1_451c1165fd78335c7c3beac0c7123e13892dfdec/classes.dex" />
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_b63fefc6794064133d304f2a4cfa0b59b09828a5/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_f2a8302cbdaab85f3e72e59b5b25e9359c1f9e83/classes.dex" />
+        revision="24.0.2"
+        sha1="ee61ace5f3e488fc610e1c67693c49186a441f32">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.1_54dc79b0e27ae02494b672abb0e420206e1e650a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
-        revision="24.0.1"
-        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
-        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_7b29ff12ffe77d19089edc82ce9a15b78c384cc0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
-        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_514306e1b2fc56717b9093f9f25e3953e4e3c4eb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.1"
-        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
-        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_65a38a44ccacd034ef239e87bc840b373454024c/classes.dex" />
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_d5c939ec85b2b0bab36e5efc69d42eedcc268b91/classes.dex" />
     </item>
 
 </items>
