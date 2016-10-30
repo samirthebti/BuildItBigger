@@ -1,14 +1,9 @@
 package com.udacity.gradle.builditbigger;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-
-import com.example.TellJock;
-import com.thesam.me.passedjock.PassedJock;
 
 
 public class MainActivity extends ActionBarActivity {
@@ -41,11 +36,4 @@ public class MainActivity extends ActionBarActivity {
 
         return super.onOptionsItemSelected(item);
     }
-
-    public void tellJoke(View view) {
-
-        new EndPointAsynTask().execute(this);
-    }
-
-
 }

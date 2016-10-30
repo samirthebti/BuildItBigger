@@ -1,14 +1,11 @@
 package com.udacity.gradle.builditbigger;
 
 import android.content.Context;
-import android.content.Intent;
 import android.os.AsyncTask;
 
-import com.example.TellJock;
 import com.example.thesam.myapplication.backend.myApi.MyApi;
 import com.google.api.client.extensions.android.http.AndroidHttp;
 import com.google.api.client.extensions.android.json.AndroidJsonFactory;
-import com.thesam.me.passedjock.PassedJock;
 
 import java.io.IOException;
 
@@ -17,19 +14,22 @@ import java.io.IOException;
  * ----->> thebtisam@gmail.com <<-----
  */
 
-public class EndPointAsynTask extends AsyncTask<Context, Void, String> {
+public class EndPointAsynTask extends AsyncTask<MainActivityFragment, Void, String> {
     private MyApi myApi = null;
     private Context context;
+    private MainActivityFragment fragment;
 
     @Override
-    protected String doInBackground(Context... params) {
+    protected String doInBackground(MainActivityFragment... params) {
         if (myApi == null) {
             MyApi.Builder builder = new MyApi.Builder(AndroidHttp.newCompatibleTransport(), new
                     AndroidJsonFactory(), null)
                     .setRootUrl("https://builditbiiger.appspot.com/_ah/api/");
             myApi = builder.build();
         }
-        context = params[0];
+        fragment = params[0];
+
+        context = fragment.getActivity();
         try {
             return myApi.sayJock().execute().getData();
         } catch (IOException e) {
@@ -39,9 +39,8 @@ public class EndPointAsynTask extends AsyncTask<Context, Void, String> {
 
     @Override
     protected void onPostExecute(String result) {
-        TellJock tellJock = new TellJock();
-        Intent jockIntent = new Intent(context, PassedJock.class);
-        jockIntent.putExtra(context.getString(R.string.jockintent), tellJock.getJokes());
-        context.startActivity(jockIntent);
+        fragment.loadedJock = result;
+        fragment.launchIntentJock();
     }
+
 }
