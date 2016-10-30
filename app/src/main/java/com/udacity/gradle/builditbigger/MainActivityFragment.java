@@ -23,6 +23,7 @@ public class MainActivityFragment extends Fragment {
     public String loadedJock = null;
     private ProgressBar progressBar;
     private Button tellJockBtn;
+    public boolean testFlag = false;
 
     public MainActivityFragment() {
     }
@@ -59,10 +60,12 @@ public class MainActivityFragment extends Fragment {
     }
 
     public void launchIntentJock() {
-        TellJock tellJock = new TellJock();
-        Intent jockIntent = new Intent(getActivity(), PassedJock.class);
-        jockIntent.putExtra(getActivity().getString(R.string.jockintent), tellJock.getJokes());
-        getActivity().startActivity(jockIntent);
-        progressBar.setVisibility(View.GONE);
+        if (!testFlag) {
+            TellJock tellJock = new TellJock();
+            Intent jockIntent = new Intent(getActivity(), PassedJock.class);
+            jockIntent.putExtra(getActivity().getString(R.string.jockintent), tellJock.getJokes());
+            getActivity().startActivity(jockIntent);
+            progressBar.setVisibility(View.GONE);
+        }
     }
 }
