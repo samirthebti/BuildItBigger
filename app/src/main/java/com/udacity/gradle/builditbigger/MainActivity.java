@@ -43,10 +43,8 @@ public class MainActivity extends ActionBarActivity {
     }
 
     public void tellJoke(View view) {
-        TellJock tellJock = new TellJock();
-        Intent jockIntent = new Intent(this, PassedJock.class);
-        jockIntent.putExtra(getString(R.string.jockintent), tellJock.getJokes());
-        startActivity(jockIntent);
+
+        new EndPointAsynTask().execute(this);
     }
 
 

@@ -61,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="6aa4a28fa2521d277d7fc543d1f08aa126cd55d8">
+        sha1="514182fa6c081c28ce26506f96a94e5bc6e1c4b7">
         <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_177df189b7a5eb55afd4d49ef30799eb7d305b83/classes.dex" />
     </item>
     <item
@@ -72,6 +72,24 @@
         revision="24.0.1"
         sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
         <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_9b61f66ed84fa49df73344f263a87ff5d21c294e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-1.20.0_a3c28c9fbaaa220232c226c74361603158e89a02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.20.0/5673179575c32b69a474334255c3044adf18d40/google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-android-1.20.0_7346c7195ece9112b9f97fac20257a05e297208d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -174,6 +192,33 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/thesam/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.1.3_1cf8ff0d8b0ff50dd85361d513580050cc16d0af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.20.0/313dc99a7963523871495897ca11aa8472b3c6fd/google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-android-1.20.0_2a0e55332b70af9d4d874315ddb4c8e7fe1ed2f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-oauth-client-1.20.0_1c90ae0f4f3914f6551a5bbc5ff2c8ddf92144f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/thesam/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -183,11 +228,20 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/thesam/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-http-client-jackson2-1.20.0_f2cf8dc3db64df70e197bebb32a93c7c443780c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="5c81b9f061abab04d12126b14721bdfafc3be168">
+        sha1="b13e07d6024a76bef1146319380d38f552915814">
         <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5f97896a0021744ce29572f02138209d531c511d/classes.dex" />
     </item>
     <item
@@ -237,12 +291,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/thesam/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-2.0.1_b661076efee06d162be40fb8d622e9da431a69db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/guava-jdk5-13.0_f17c2256bdd9e2a217d10a9c794fb474e53bbe99/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
         <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_6a39d6395948da2d9dc8e83d8476d580177abe5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/thesam/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/home/thesam/Desktop/Udacity Android Nanodegree/P3-Build it Bigger/BuildItBigger/app/build/intermediates/transforms/dex/debug/folders/1000/10/google-api-client-1.20.0_803579ba64682ad66fae75fd4071748bcbbfa134/classes.dex" />
     </item>
     <item
         is-multidex="true"
